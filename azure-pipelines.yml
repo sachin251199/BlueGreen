@@ -38,4 +38,4 @@ steps:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'FilePath'
-    TargetPath: 'D:\BlueGreen Deployment\Bluegreen Application'
+    TargetPath: 'D:\artifact'
