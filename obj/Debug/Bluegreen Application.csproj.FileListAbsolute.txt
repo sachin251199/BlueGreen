@@ -76,3 +76,4 @@ D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.cs
 D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.csproj.CopyComplete
 D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.dll
 D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.pdb
+D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.csproj.AssemblyReference.cache
