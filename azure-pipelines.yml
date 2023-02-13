@@ -33,9 +33,16 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
+- task: PublishSymbols@2
+  inputs:
+    SearchPattern: '**/bin/**/*.pdb'
+    SymbolServerType: 'FileShare'
+    SymbolsPath: 'D:\BlueGreen Deployment\Bluegreen Application'
+    CompressSymbols: false
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'
     ArtifactName: 'drop'
     publishLocation: 'FilePath'
-    TargetPath: 'D:\artifact'
+    TargetPath: 'D:\BlueGreen Deployment\Bluegreen Application'
