@@ -1,0 +1,78 @@
+D:\BlueGreen Deployment\Bluegreen Application\bin\Bluegreen Application.dll.config
+D:\BlueGreen Deployment\Bluegreen Application\bin\Bluegreen Application.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\Bluegreen Application.pdb
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\csc.exe
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\csc.exe.config
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\csc.rsp
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\csi.exe
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\csi.exe.config
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\csi.rsp
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.AppContext.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Collections.Immutable.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Console.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Globalization.Calendars.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.IO.Compression.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.IO.FileSystem.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Net.Http.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Net.Sockets.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.ValueTuple.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Xml.XPath.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\vbc.exe
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\vbc.exe.config
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\vbc.rsp
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\VBCSCompiler.exe
+D:\BlueGreen Deployment\Bluegreen Application\bin\roslyn\VBCSCompiler.exe.config
+D:\BlueGreen Deployment\Bluegreen Application\bin\Antlr3.Runtime.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\Microsoft.Web.Infrastructure.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\Newtonsoft.Json.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Helpers.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Mvc.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Optimization.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Razor.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.WebPages.Deployment.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.WebPages.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.WebPages.Razor.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\WebGrease.dll
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Helpers.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Mvc.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Optimization.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.Razor.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.WebPages.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.WebPages.Deployment.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\System.Web.WebPages.Razor.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\Newtonsoft.Json.xml
+D:\BlueGreen Deployment\Bluegreen Application\bin\Antlr3.Runtime.pdb
+D:\BlueGreen Deployment\Bluegreen Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.csproj.CoreCompileInputs.cache
+D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.csproj.CopyComplete
+D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.dll
+D:\BlueGreen Deployment\Bluegreen Application\obj\Debug\Bluegreen Application.pdb
